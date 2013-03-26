@@ -1,10 +1,9 @@
-
 ## Lounge Android-Library
 Multi Platform
 Multi-Player
 Multi-App
 
-![http://andlabs.eu](http://andlabs.info/pix/android_andlabs_logo.png)
+
 
 Licensed under the Apache License, Version 2.0
 
